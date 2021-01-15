@@ -1,7 +1,7 @@
 # DeepSpeech REST API 
 
 ## Overview
-This is a REST microservice created using Flask that streamlines the [Skimo Speech-To-Text Service](https://github.com/skimotv/SkimoSpeechToTextService/) and is based on the open source engine [DeepSpeech](https://github.com/mozilla/DeepSpeech). The API accepts a WAV file in the POST request and returns a full JSON transcript with timecodes in the GET   
+This is a REST microservice created using Flask that aims to streamline the [Skimo Speech-To-Text Service](https://github.com/skimotv/SkimoSpeechToTextService/) and is based on the open source engine [DeepSpeech](https://github.com/mozilla/DeepSpeech). The API accepts a WAV file in the POST request and returns a full JSON transcript with timecodes in the GET   
 
 ## Installing DeepSpeech
 This service utilizes **DeepSpeech Version 0.9.2**
