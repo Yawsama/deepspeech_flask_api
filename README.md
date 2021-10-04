@@ -28,5 +28,5 @@ Used to delete an audio file along with its transcript. Uses the `/audiofile/<uu
 ### Docker Image
 To download the Docker Image use `docker pull yawsama23/speech_to_text_flaskapp`
 
-To run the Docker Image, use `docker run -p 5000:5000 speech_to_text_flaskap` 
+To run the Docker Image, use `docker run -p 5000:5000 speech_to_text_flaskapp` 
 
